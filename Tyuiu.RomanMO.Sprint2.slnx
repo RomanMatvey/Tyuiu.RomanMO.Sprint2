@@ -1,0 +1,42 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task0.V19.Lib/Tyuiu.RomanMO.Sprint2.Task0.V19.Lib.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task0.V19.Test/Tyuiu.RomanMO.Sprint2.Task0.V19.Test.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task0.V19/Tyuiu.RomanMO.Sprint2.Task0.V19.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task1.V10.Lib/Tyuiu.RomanMO.Sprint2.Task1.V10.Lib.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task1.V10.Test/Tyuiu.RomanMO.Sprint2.Task1.V10.Test.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task1.V10/Tyuiu.RomanMO.Sprint2.Task1.V10.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task2.V13.Lib/Tyuiu.RomanMO.Sprint2.Task2.V13.Lib.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task2.V13.Test/Tyuiu.RomanMO.Sprint2.Task2.V13.Test.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task2.V13/Tyuiu.RomanMO.Sprint2.Task2.V13.csproj" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task3.V28.Lib/Tyuiu.RomanMO.Sprint2.Task3.V28.Lib.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task3.V28.Test/Tyuiu.RomanMO.Sprint2.Task3.V28.Test.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task3.V28/Tyuiu.RomanMO.Sprint2.Task3.V28.csproj" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task4.V25.Lib/Tyuiu.RomanMO.Sprint2.Task4.V25.Lib.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task4.V25.Test/Tyuiu.RomanMO.Sprint2.Task4.V25.Test.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task4.V25/Tyuiu.RomanMO.Sprint2.Task4.V25.csproj" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task5.V7.Lib/Tyuiu.RomanMO.Sprint2.Task5.V7.Lib.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task5.V7.Test/Tyuiu.RomanMO.Sprint2.Task5.V7.Test.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task5.V7/Tyuiu.RomanMO.Sprint2.Task5.V7.csproj" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task6.V3.Lib/Tyuiu.RomanMO.Sprint2.Task6.V3.Lib.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task6.V3.Test/Tyuiu.RomanMO.Sprint2.Task6.V3.Test.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task6.V3/Tyuiu.RomanMO.Sprint2.Task6.V3.csproj" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task7.V10.Lib/Tyuiu.RomanMO.Sprint2.Task7.V10.Lib.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task7.V10.Test/Tyuiu.RomanMO.Sprint2.Task7.V10.Test.csproj" />
+    <Project Path="Tyuiu.RomanMO.Sprint2.Task7.V10/Tyuiu.RomanMO.Sprint2.Task7.V10.csproj" />
+  </Folder>
+</Solution>
